@@ -58,6 +58,12 @@ HTML • CSS • JavaScript
 
 ---
 
+## GitHub Statistics
+
+![Aman's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanDagar144&theme=github_dark)
+
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanDagar144&theme=github_dark)
+
 ## 🌐 Connect With Me
 
 <p align="left">
