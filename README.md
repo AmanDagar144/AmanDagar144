@@ -60,9 +60,18 @@ HTML • CSS • JavaScript
 
 ## GitHub Statistics
 
-![Aman's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanDagar144&theme=github_dark)
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanDagar144&theme=github_dark)
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanDagar144&theme=github_dark"
+    alt="Aman's GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanDagar144&theme=github_dark"
+    alt="Most Used Languages"
+    width="48%"
+  />
+</p>
 
 ## 🌐 Connect With Me
 
