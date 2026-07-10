@@ -1,26 +1,38 @@
 <h1 align="center">Hi 👋, I'm Aman Dagar</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | SQL • Python • Power BI | Turning Data into Actionable Insights 🚀</h3>
+<h3 align="center">📊 Aspiring Data Analyst | SQL • Python • Power BI • Excel | Turning Data into Actionable Insights 🚀</h3>
 
 <p align="center">
 🔍 Finding stories in data and turning them into decisions that matter.
 </p>
 
-<img align="right" alt="Data Analytics" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=amandagar144&label=Profile%20Views&color=0e75b6&style=flat" alt="amandagar144" />
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=AmanDagar144&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Aman Dagar profile views"
+  />
 </p>
+
+---
+
+<img
+  align="right"
+  alt="Data Analytics"
+  width="330"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+/>
 
 ## 👨‍💻 About Me
 
-* 📊 Aspiring Data Analyst passionate about transforming data into business insights
-* 🗄️ Practicing SQL through real-world datasets and challenges
-* 📈 Building interactive dashboards with Power BI
-* 🐍 Using Python for data cleaning, analysis, and visualization
-* 💡 Interested in Data Analytics, Business Intelligence, and Data Storytelling
-* 💬 Ask me about **SQL, Python, Power BI, Excel, and Data Analytics**
-* 📫 Reach me at: **[amandagar530@gmail.com](mailto:amandagar530@gmail.com)**
+- 📊 Aspiring Data Analyst focused on transforming data into useful business insights
+- 🗄️ Practicing SQL through real-world datasets and analytical challenges
+- 📈 Building interactive dashboards using Power BI
+- 🐍 Using Python for data cleaning, analysis, and visualization
+- 💡 Interested in Data Analytics, Business Intelligence, and Data Storytelling
+- 💬 Ask me about **SQL, Python, Power BI, Excel, and Data Analytics**
+- 📫 Reach me at **[amandagar530@gmail.com](mailto:amandagar530@gmail.com)**
+
+<br clear="right"/>
 
 ---
 
@@ -28,19 +40,94 @@
 
 ### 📊 Data Analytics
 
-SQL • Power BI • Excel • Data Visualization • Dashboard Design
+<p>
+  <img
+    src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="SQL"
+    title="SQL"
+  />
+  <img
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
+    alt="Power BI"
+    title="Power BI"
+  />
+  <img
+    src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
+    alt="Microsoft Excel"
+    title="Microsoft Excel"
+  />
+  <img src="https://img.shields.io/badge/Data%20Visualization-4C78A8?style=for-the-badge" alt="Data Visualization" title="Data Visualization" />
+  <img src="https://img.shields.io/badge/Dashboard%20Design-7B61FF?style=for-the-badge" alt="Dashboard Design" title="Dashboard Design" 
+    />
+</p>
 
 ### 🐍 Programming
 
-Python
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=python"
+    alt="Python"
+    title="Python"
+    width="48"
+  />
+</p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
-MySQL
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=mysql"
+    alt="MySQL"
+    title="MySQL"
+    width="48"
+  />
+</p>
 
-### 🌐 Web Development
+### 🌐 Web Technologies
 
-HTML • CSS • JavaScript
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=html"
+    alt="HTML"
+    title="HTML"
+    width="48"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=css"
+    alt="CSS"
+    title="CSS"
+    width="48"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=js"
+    alt="JavaScript"
+    title="JavaScript"
+    width="48"
+  />
+</p>
+
+### Development Tools
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git"
+    alt="Git"
+    title="Git"
+    width="48"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    alt="GitHub"
+    title="GitHub"
+    width="48"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=vscode"
+    alt="Visual Studio Code"
+    title="Visual Studio Code"
+    width="48"
+  />
+</p>
 
 ---
 
@@ -58,35 +145,36 @@ HTML • CSS • JavaScript
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanDagar144&theme=github_dark"
-    alt="Aman's GitHub Stats"
-    width="48%"
-  />
+<p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmanDagar144&theme=github_dark"
-    alt="Most Used Languages"
+    alt="Repositories by programming language"
+    title="Repositories by programming language"
     width="48%"
   />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/amandagar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amandagar" height="30" width="40" />
-</a>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmanDagar144&theme=github_dark"
+    alt="Most committed programming languages"
+    title="Most committed programming languages"
+    width="48%"
+  />
 </p>
 
 ---
 
-### 💡 Motto
+## 🌐 Connect With Me
 
-> "Turning raw data into actionable insights through analytics and storytelling."
+<p align="center">
+  <a href="https://github.com/AmanDagar144" title="GitHub"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45"/></a>&nbsp;
+  <a href="https://linkedin.com/in/amandagar" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45"/></a>&nbsp;
+  <a href="mailto:amandagar530@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="45"/></a>
+</p>
 
-</br>
+---
 
- 
+<p align="center">
+  <b>Turning raw data into actionable insights through analytics and storytelling.</b>
+</p>
+
